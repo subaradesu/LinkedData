@@ -16,8 +16,22 @@
 <#yo> foaf:img <https://static.u-cursos.cl/r/usuario/53/538d349cf1707dc98d5d29bb3c21e38d/datos_usuario/av_567cd15980e37.jpg> .
 
 <#yo> foaf:knows <http://users.dcc.uchile.cl/~ecerfogl/ecerfogl.ttl#yo> .
+<#yo> foaf:knows <http://aidanhogan.com/foaf/aidan.ttl#me> .
+<#yo> foaf:knows <http://anakena.dcc.uchile.cl/~rperalta/matias.ttl#yo> .
+<#yo> foaf:knows <http://users.dcc.uchile.cl/~fardila/ardilom.ttl#yo> .
+<#yo> foaf:knows <http://molguin92.github.io/foaf/molguin.ttl#me> .
+
 
 <#yo> foaf:interest wikidata:Q179057 . 
+<#yo> foaf:interest wikidata:Q3271710 .
+<#yo> foaf:interest wikidata:Q229347 .
+<#yo> foaf:interest wikidata:Q1347031 .
+<#yo> foaf:interest wikidata:Q864 .
+<#yo> foaf:interest wikidata:Q7208570 .
+<#yo> foaf:interest wikidata:Q3787266 .
+
+
+
 
 <> rdf:type foaf:Document .
 <> dc:title "Agustín’s FOAF Profile"@en .
