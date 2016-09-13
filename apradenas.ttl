@@ -8,16 +8,16 @@
 
 <#yo> rdf:type foaf:Person .
 <#yo> foaf:name "Agustín Pradenas" .
-<#yo> foaf:birthday "08-20"
-<#yo> foaf:age "26"^^xsd:integer
-<#yo> foaf:gender "male"@en-US
+<#yo> foaf:birthday "08-20" .
+<#yo> foaf:age "26"^^xsd:integer .
+<#yo> foaf:gender "male"@en-US .
 <#yo> foaf:homepage <https://www.linkedin.com/in/agustín-pradenas-2b9242121> .
-<#yo> foaf:based_near <http://sws.geonames.org/8261395/>
+<#yo> foaf:based_near <http://sws.geonames.org/8261395/> .
 <#yo> foaf:img <https://static.u-cursos.cl/r/usuario/53/538d349cf1707dc98d5d29bb3c21e38d/datos_usuario/av_567cd15980e37.jpg> .
 
-<#yo> foaf:knows <http://users.dcc.uchile.cl/~ecerfogl/ecerfogl.ttl#yo>
+<#yo> foaf:knows <http://users.dcc.uchile.cl/~ecerfogl/ecerfogl.ttl#yo> .
 
-<#yo> foaf:interest wikidata:Q179057
+<#yo> foaf:interest wikidata:Q179057 . 
 
 <> rdf:type foaf:Document .
 <> dc:title "Agustín’s FOAF Profile"@en .
